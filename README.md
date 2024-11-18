@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div align=center>
 <img src="./.assets/christmas_ferris.png" width="164" alt="Christmas Ferris">
 
 # 🎄 Advent of Code 2019
