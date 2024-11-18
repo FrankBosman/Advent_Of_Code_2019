@@ -1,10 +1,10 @@
-<div align=center>
-<img src="./.assets/christmas_ferris.png" width="164">
+<div style="text-align:center;">
+<img src="./.assets/christmas_ferris.png" width="164" alt="Christmas Ferris">
 
 # 🎄 Advent of Code 2019
-Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.rust-lang.org/), Made by Frank Bosman.
+Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.rust-lang.org/), Made by Frank Bosman.<br>
+Thanks to Felix Spöttel for the [template](https://github.com/fspoettel/advent-of-code-rust) of this repo. 
 </div>
-
 
 <!--- advent_readme_stars table --->
 ## 2019 Results
