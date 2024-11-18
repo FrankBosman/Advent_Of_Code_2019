@@ -1,8 +1,10 @@
+<div align=center>
 <img src="./.assets/christmas_ferris.png" width="164">
 
-# 🎄 Advent of Code {year}
+# 🎄 Advent of Code 2019
+Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.rust-lang.org/), Made by Frank Bosman.
+</div>
 
-Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.rust-lang.org/).
 
 <!--- advent_readme_stars table --->
 ## 2019 Results
@@ -18,10 +20,36 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.
 <!--- benchmarking table --->
 
 ---
+<br>
+<br>
+
+# Usefull commands
+Create a day and download the input:
+```sh
+cargo scaffold <day> --download
+```
+Run the implementation of a certain day:
+```sh
+cargo solve <day>
+```
+Submit the solution of a part of the day:
+```sh
+cargo solve <day> --submit <part>
+```
+Benchmark the execution time of the day:
+```sh
+cargo time <day>
+```
+Run all the tests:
+```sh
+cargo test <day>
+```
+
+<br>
+<br>
 
 ## Template setup
-
-This template supports all major OS (macOS, Linux, Windows).
+This repo is created from a template made by Felix Spöttel. Below you can see the readme of the template repo.
 
 ###  📝 Create your repository
 
