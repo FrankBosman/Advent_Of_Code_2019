@@ -15,6 +15,7 @@ Thanks to Felix Spöttel for the [template](https://github.com/fspoettel/advent-
 | [Day 2](https://adventofcode.com/2019/day/2) | ⭐ | ⭐ |
 | [Day 3](https://adventofcode.com/2019/day/3) | ⭐ | ⭐ |
 | [Day 4](https://adventofcode.com/2019/day/4) | ⭐ | ⭐ |
+| [Day 5](https://adventofcode.com/2019/day/5) | ⭐ | ⭐ |
 <!--- advent_readme_stars table --->
 
 <!--- benchmarking table --->
